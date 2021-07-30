@@ -1,1 +1,2 @@
 File3
+line 2 in file3
